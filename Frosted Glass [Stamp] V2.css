@@ -1,0 +1,57 @@
+/**
+ * @name Frosted Glass [Stamp] V2
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232448
+ * @BDEditor Frosted Glass
+*/
+
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://wallpapercave.com/wp/wp5405427.jpg');
+  --background-image-blur: 5px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-image: var(--background-image);
+  --popout-image-blur: 30px;
+  --popout-image-size: cover;
+  --popout-image-position: center;
+  --overlay-image: var(--background-image);
+  --overlay-image-blur: 30px;
+  --overlay-image-size: cover;
+  --overlay-image-position: center;
+  --home-button-image: url('https://i.ibb.co/tHZd3Xv/Lucyna-Kushinada.png');
+  --home-button-size: 100%;
+  --home-button-position: center;
+  --serverlist-brightness: 0.86;
+  --left-brightness: 0.8;
+  --middle-brightness: 0.6;
+  --right-brightness: 0.38;
+  --overlay-brightness: 0.7;
+  --gradient-primary: 251,0,255;
+  --gradient-secondary: 8,32,168;
+  --link-colour: #00b0f4;
+  --scrollbar-colour: rgba(255,255,255,0.05);
+  --gradient-direction: 320deg;
+  --tint-colour: 255,51,159;
+  --tint-brightness: 0.38;
+  --font: Anuphan;
+  --window-padding: 6px;
+  --window-roundness: 10px;
+  --update-notice-1: none;
+  --columns: 2;
+  --guildgap: 3;
+  --aligndms: 0;
+}
+
+/* Any custom CSS below here */
+
+
